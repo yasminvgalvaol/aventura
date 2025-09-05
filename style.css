@@ -16,3 +16,20 @@ button {
     color: white;
     font-family: Caveat;
 }
+
+.passo{
+    display: none; 
+}
+
+.passo.ativo{
+    display: block;
+}
+
+main{
+    max-width: 90%;
+    text-align: center;
+}
+
+img{
+    max-width: 90%;
+}
